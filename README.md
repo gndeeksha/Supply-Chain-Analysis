@@ -1,3 +1,5 @@
+Description
+Analyzed supply chain data to identify trends in revenue, inventory, transportation costs, and defect rates using Linear Regression.
 
 Tools & Technologies
 Python
